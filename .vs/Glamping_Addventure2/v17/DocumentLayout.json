@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\brocoli-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\user\\downloads\\brocoli-main\\glamping_addventure2\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\user\\downloads\\brocoli-main\\glamping_addventure2\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\user\\downloads\\brocoli-main\\glamping_addventure2\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\user\\downloads\\brocoli-main\\glamping_addventure2\\controllers\\recuperacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\controllers\\recuperacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\user\\downloads\\brocoli-main\\glamping_addventure2\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecuperacionController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\brocoli-main\\Glamping_Addventure2\\Controllers\\RecuperacionController.cs",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Controllers\\RecuperacionController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\brocoli-main\\Glamping_Addventure2\\Controllers\\RecuperacionController.cs",
+              "RelativeToolTip": "Glamping_Addventure2\\Controllers\\RecuperacionController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:02:33.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\brocoli-main\\Glamping_Addventure2\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Controllers\\InicioController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\brocoli-main\\Glamping_Addventure2\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "Glamping_Addventure2\\Controllers\\InicioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:02:27.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\brocoli-main\\Glamping_Addventure2\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\brocoli-main\\Glamping_Addventure2\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "Glamping_Addventure2\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T20:00:07.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\brocoli-main\\Glamping_Addventure2\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\brocoli-main\\Glamping_Addventure2\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Glamping_Addventure2\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:00:02.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\brocoli-main\\Glamping_Addventure2\\Views\\Inicio\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Views\\Inicio\\Registrarse.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\brocoli-main\\Glamping_Addventure2\\Views\\Inicio\\Registrarse.cshtml",
+              "RelativeToolTip": "Glamping_Addventure2\\Views\\Inicio\\Registrarse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T00:03:58.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
